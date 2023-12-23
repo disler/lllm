@@ -1,2 +1,7 @@
 *llamafile
 *.log
+
+.aider.ident.cache.v1
+.aider.tags.cache.v1
+.aider.chat.history.md
+.aider.input.history
