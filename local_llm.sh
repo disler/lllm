@@ -1,7 +1,9 @@
 #!/bin/bash
 
+# Place this script in your .bashrc or .bash_profile file
+
 # Constant for the model directory
-MODEL_DIR="/path/to/your/models" # Replace with the actual model directory path
+MODEL_DIR="/Users/ravix/Documents/projects/yt/local_llm_w_llama_file"
 
 # Function to run the language model
 lllm() {
@@ -23,7 +25,7 @@ lllm() {
     esac
 
     # Run the model command
-    $MODEL_DIR/$model_name --prompt "$prompt" --temperature $temp --log-disable
+    $MODEL_DIR/$model_name --prompt "$prompt" --temp $temp --log-disable
 }
 
 # Example usage:

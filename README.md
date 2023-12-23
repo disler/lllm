@@ -1,4 +1,4 @@
-# Local LLMs with LLamafile
+# LLLM Local LLMs with LLamafile
 
 
 
@@ -10,6 +10,9 @@
   - `./mistral-7b-instruct-v0.1-Q4_K_M-server.llamafile`
 
 
-## Reusable bash function
+## Reusable bash function (lllm)
 - Let's build a reusable local llm function to call local LLMs from anywhere
   - `lllm "<prompt>" <model> <temp>`
+- Run `source local_llm.sh`
+- Example command
+  - `lllm "list 5 pros and cons of python" mistral 0.9`
