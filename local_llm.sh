@@ -17,6 +17,9 @@ lllm() {
         mistral)
             model_name="mistral-7b-instruct-v0.1-Q4_K_M-main.llamafile"
             ;;
+        wizard)
+            model_name="wizardcoder-python-13b-main.llamafile"
+            ;;
         # Add other model aliases and their corresponding file names here
         *)
             echo "Unknown model alias: $model_alias"
