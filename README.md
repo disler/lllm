@@ -1,4 +1,4 @@
-# LLLM Local LLMs with LLamafile
+# LLLM - Local LLMs with LLamafile
 
 ## Quick setup
 > Get up and running quickly with these instructions
