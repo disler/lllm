@@ -32,7 +32,7 @@
     - https://github.com/Mozilla-Ocho/llamafile/tree/0.3
 - Original llamafile introduction
     - https://hacks.mozilla.org/2023/11/introducing-llamafile/
-- Core author - creator of cosmopolitan libc
+- Core author - creator of [cosmopolitan](https://github.com/jart/cosmopolitan) & llamafile
     - https://justine.lol/
 - Original Blog Post
     - https://justine.lol/oneliners/
