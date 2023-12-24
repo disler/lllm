@@ -3,8 +3,8 @@
 ## Quick setup
 > Get up and running quickly with these instructions
 - Download these files from the [docs](https://github.com/Mozilla-Ocho/llamafile?tab=readme-ov-file#other-example-llamafiles) and place them in this directory
-  - mistral-7b-instruct-v0.1-Q4_K_M-main.llamafile
-  - mistral-7b-instruct-v0.1-Q4_K_M-server.llamafile
+  - [mistral-7b-instruct-v0.1-Q4_K_M-main.llamafile](https://huggingface.co/jartine/mistral-7b.llamafile/resolve/main/mistral-7b-instruct-v0.1-Q4_K_M-main.llamafile?download=true)
+  - [mistral-7b-instruct-v0.1-Q4_K_M-server.llamafile](https://huggingface.co/jartine/mistral-7b.llamafile/resolve/main/mistral-7b-instruct-v0.1-Q4_K_M-server.llamafile?download=true)
   - [wizardcoder-python-13b-main.llamafile](https://huggingface.co/jartine/wizardcoder-13b-python/resolve/main/wizardcoder-python-13b-main.llamafile?download=true)
 - Run the commands below
 
