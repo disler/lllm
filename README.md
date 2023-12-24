@@ -1,4 +1,4 @@
-# LLLM - Local LLMs with LLamafile
+# LLLM - Local LLMs with llamafile
 
 ![local llms with llamafile](img/local-llms-with-llamafile.png)
 
