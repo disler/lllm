@@ -35,13 +35,16 @@
 - Now you can call lllm() from anywhere in your terminal
 
 ## Resources
+- watch the devlog where we create this repo
+    - https://youtu.be/XnoKvdeZAN8
 - llamafile codebase
     - https://github.com/Mozilla-Ocho/llamafile/tree/0.3
 - Original llamafile introduction
     - https://hacks.mozilla.org/2023/11/introducing-llamafile/
-- Core author - creator of [cosmopolitan](https://github.com/jart/cosmopolitan) & llamafile
+- Core author - creator of [llamafile](https://github.com/Mozilla-Ocho/llamafile) * [cosmopolitan](https://github.com/jart/cosmopolitan)
     - https://justine.lol/
 - Original Blog Post
     - https://justine.lol/oneliners/
 - How llamafile works
     - https://github.com/Mozilla-Ocho/llamafile/tree/0.3?tab=readme-ov-file#how-llamafile-works
+
