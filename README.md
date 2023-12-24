@@ -1,5 +1,7 @@
 # LLLM - Local LLMs with LLamafile
 
+![local llms with llamafile](img/local-llms-with-llamafile.png)
+
 ## Quick setup
 > Get up and running quickly with these instructions
 - Download these files from the [docs](https://github.com/Mozilla-Ocho/llamafile?tab=readme-ov-file#other-example-llamafiles) and place them in this directory
@@ -19,13 +21,18 @@
 
 
 ## Reusable bash function (local_llm.sh:lllm())
-> Let's build a reusable local llm function to call local LLMs from anywhere
-  - `lllm "<prompt>" <model> <temp>`
-- Run `source local_llm.sh`
+> Let's build a reusable local llm function to call local LLMs from anywhere.
+> 
+> There are many better ways to do this, but heres a simple, quick way to get local LLMs anywhere in your terminal’
+> 
+> I recommend checking out [‘LLM’](https://github.com/simonw/llm) for a complete in terminal, LLM solution.
+- Test out the lllm() function with `source local_llm.sh`
 - Example commands
   - `lllm "Explain LLM architecture"`
   - `lllm "list 5 pros and cons of python" mistral 0.9`
   - `lllm "count items in list that are str and bool types" wizard`
+- Move the lllm function into your .bashrc or .zshrc or .bash_profile
+- Now you can call lllm() from anywhere in your terminal
 
 ## Resources
 - llamafile codebase
